@@ -1,0 +1,31 @@
+.product-root,
+.filter {
+  display: flex;
+  align-items: center;
+}
+
+.product-img,
+.product-info {
+  width: 50%;
+}
+.product-img img {
+  width: 400px;
+}
+.filter div {
+  display: block;
+  width: 100px;
+}
+.color-box p {
+  width: 30px;
+  height: 30px;
+}
+.cart button {
+  padding: 15px 25px;
+}
+.cart {
+    border: 1px solid black;
+    width: 70px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: 25px;
+}
